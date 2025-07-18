@@ -1,0 +1,27 @@
+name: Snake Game
+
+on:
+  schedule:
+    - cron: "0 */5 * * *"  # Atualiza a cada 5 horas
+  workflow_dispatch:       # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar animação da cobrinha 🐍
+        uses: Platane/snk@master
+        with:
+          github_user_name: oalvesj
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit e push do resultado
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
