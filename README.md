@@ -44,6 +44,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/oalvesj/oalvesj/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/oalvesj/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🛠️ LinkedIn
