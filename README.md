@@ -40,12 +40,6 @@
 
 ---
 
-### 🐍 GitHub Snake
-
-![Snake animation](https://raw.githubusercontent.com/oalvesj/oalvesj/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🛠️ LinkedIn
 
 - 💼 [My LinkedIn](https://www.linkedin.com/in/osni-a-8429b01a6/)
