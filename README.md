@@ -42,7 +42,7 @@
 
 ### 🐍 GitHub Snake
 
-![Snake animation](https://github.com/oalvesj/github-readme-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/oalvesj/oalvesj/output/github-contribution-grid-snake.svg)
 
 ---
 
