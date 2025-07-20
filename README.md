@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Software Programmer and CAD/CAM Programmer</i><br>
-  <i>Code, Industrial technical drawing and Programmable automatons.</i>
+  <i> → Code, Industrial technical drawing and Programmable automatons.</i>
 </p>
 
 ---
