@@ -2,12 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # a cada 6 horas (ajuste se quiser)
+    - cron: "0 */6 * * *"   # Executa a cada 6 horas (pode ajustar)
   workflow_dispatch:
 
-# garante que o GITHUB_TOKEN tem permissão de escrita para commitar
 permissions:
-  contents: write
+  contents: write  # Permite que a action faça commit/push
 
 jobs:
   build:
@@ -30,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated files to 'output' branch
-        uses: crazy-max/[email protected]
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
