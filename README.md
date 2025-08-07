@@ -52,12 +52,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=oalvesj&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats"
-    height="200"
+    height="180"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=oalvesj&theme=tokyonight" 
-    alt="GitHub Streak Stats"
-    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesj&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+    height="180"
   />
 </p>
 
