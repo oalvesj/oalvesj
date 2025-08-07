@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Osni Alves 👋</h1>
 
 <p align="center">
-  <i>Software Programmer and CAD/CAM Programmer</i><br>
+  <i>Software Programmer and CAD/CAM Programmer in training</i><br>
   <i> → Code, Industrial technical drawing and Programmable automatons.</i>
 </p>
 
