@@ -50,14 +50,15 @@
 ---
 
 ### 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=oalvesj&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=oalvesj&theme=tokyonight" 
+    alt="GitHub Streak Stats"
     height="180"
   />
   <img 
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=oalvesj&layout=compact&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oalvesj&theme=tokyonight" 
     alt="Top Languages"
     height="180"
   />
