@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Osni Alves 👋</h1>
 
 <p align="center">
-  <i>Full Stack Web Developer | PHP · SQL Server · JavaScript · Python</i><br>
+  <i>Systems Analyst | Full Stack Web | Multimedia</i><br>
   <i>Building healthcare software in Europe. Background in business communications and data analysis.</i>
 </p>
 
