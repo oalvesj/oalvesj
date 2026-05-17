@@ -28,17 +28,12 @@
 ![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
-
 ### 🛠️ My Page
-
-[![My Website](https://img.shields.io/badge/My%20Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://oalvesj.github.io/)
+<a href="https://oalvesj.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="My Website"></a>
 
 ---
-
 ### 🛠️ LinkedIn
-
-- 💼 [My LinkedIn](https://www.linkedin.com/in/osni-a-8429b01a6/)
-
+- 💼 <a href="https://www.linkedin.com/in/osni-a-8429b01a6/" target="_blank">My LinkedIn</a>
 ---
 
 ### 📈 GitHub Stats
