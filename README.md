@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Osni Alves 👋</h1>
 
 <p align="center">
-  <i>Software Programmer in training and CAD/CAM Programmer in training</i><br>
-  <i> → Code, Industrial technical drawing and Programmable automatons.</i>
+  <i>Full Stack Web Developer | PHP · SQL Server · JavaScript · Python</i><br>
+  <i>Building healthcare software in Europe. Background in business communications and data analysis.</i>
 </p>
 
 ---
