@@ -29,14 +29,6 @@
 
 ---
 
-### 🚀 CAD/CAM
-
-![Siemens NX](https://img.shields.io/badge/Siemens%20NX-0078D4?style=flat-square&logo=artstation&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=artstation&logoColor=white)
-![TopSolid](https://img.shields.io/badge/TopSolid-FF6F00?style=flat-square&logo=artstation&logoColor=white)
-
----
-
 ### 🛠️ My Page
 
 [![My Website](https://img.shields.io/badge/My%20Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://oalvesj.github.io/)
