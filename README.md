@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Systems Analyst | Full Stack Web | Multimedia</i><br>
-  <i>Building healthcare software in Europe. Background in business communications and data analysis.</i>
+  <i>Building healthcare software in Europe. Strong analytical and communication background.</i>
 </p>
 
 ---
