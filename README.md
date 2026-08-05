@@ -38,16 +38,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=oalvesj&theme=tokyonight" 
-    alt="GitHub Streak Stats"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesj&theme=tokyonight&layout=compact" 
-    alt="Top Languages"
-    height="180"
-  />
+  <img src="https://komarev.com/ghpvc/?username=oalvesj&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/oalvesj?tab=followers">
+    <img src="https://img.shields.io/github/followers/oalvesj?style=flat-square&logo=github&label=Followers&color=blueviolet" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/oalvesj?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/oalvesj&query=$.public_repos&style=flat-square&logo=github&label=Public+Repos&color=blueviolet" alt="Public Repos" />
+  </a>
 </p>
 
 ## 🐍 Snake Game
