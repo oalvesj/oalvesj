@@ -39,12 +39,12 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=oalvesj&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=oalvesj&theme=tokyonight" 
     alt="GitHub Streak Stats"
     height="180"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oalvesj&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesj&theme=tokyonight&layout=compact" 
     alt="Top Languages"
     height="180"
   />
@@ -69,3 +69,5 @@
 💡 Seeking opportunities in web and software development<br>
 🙌 I believe in the power of collaboration and open-source code<br>
 </details>
+
+---
