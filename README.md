@@ -3,7 +3,8 @@
 <p align="center">
   <b>Full-Stack Developer with Python · PHP · JavaScript · React · SQL · AI</b><br>
   <i>Full-Cycle: build, deploy &amp; operate in production</i><br>
-  <sub>Building healthcare software in Europe. Strong analytical and communication background.</sub>
+  <sub>Building healthcare software in Europe. Strong analytical and communication background.</sub><br>
+  <sub>Foundations: algorithms · data structures · systems analysis · secure development · statistics · EDA · GDPR</sub>
 </p>
 
 ---
@@ -17,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C#-239120?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
@@ -58,6 +59,15 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Data & Analytics**  
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square)
+![ETL / Data Ingestion](https://img.shields.io/badge/ETL%20%2F%20Data%20Ingestion-1F6FEB?style=flat-square)
 
 **DevOps & Tools**  
 
